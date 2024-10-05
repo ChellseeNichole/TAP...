@@ -1,0 +1,10 @@
+.body{
+    background-color: antiquewhite;
+
+}
+.button{
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    margin-top: 130px;
+}
